@@ -16,7 +16,7 @@ def display_pdf(pdf_file):
 st.set_page_config(layout="wide")
 st.title("Satheesh Portfolio")
 
-pdf_path = "D:/SATHEESH PORTFOLIO/SATHEESH_KUMAR_K_RESUME.pdf"
+pdf_path = "SATHEESH_KUMAR_K_RESUME.pdf"
 page_list = get_pdf_metadata(pdf_path)
 
 display_pdf(pdf_path)
