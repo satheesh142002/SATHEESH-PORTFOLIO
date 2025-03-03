@@ -20,8 +20,6 @@ def download_pdf(url, save_path):
 st.set_page_config(layout="wide")
 st.title("Satheesh Portfolio")
 
-st.sidebar.title("Resume")
-
 # Download the PDF if it doesn’t exist
 if not os.path.exists(DEFAULT_PDF_PATH):
     st.info("Downloading resume from GitHub...")
@@ -30,6 +28,5 @@ if not os.path.exists(DEFAULT_PDF_PATH):
         st.stop()
 
 # Display the PDF using an iframe with pdf.js
-st.write("### My Resume")
 pdf_viewer_url = f"https://mozilla.github.io/pdf.js/web/viewer.html?file={GITHUB_PDF_URL}#zoom=page-width"
 st.markdown(f'<iframe src="{pdf_viewer_url}" width="100%" height="1000px"></iframe>', unsafe_allow_html=True)
