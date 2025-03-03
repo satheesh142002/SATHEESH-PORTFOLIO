@@ -31,5 +31,5 @@ if not os.path.exists(DEFAULT_PDF_PATH):
 
 # Display the PDF using an iframe with pdf.js
 st.write("### My Resume")
-pdf_viewer_url = f"https://mozilla.github.io/pdf.js/web/viewer.html?file={GITHUB_PDF_URL}"
+pdf_viewer_url = f"https://mozilla.github.io/pdf.js/web/viewer.html?file={GITHUB_PDF_URL}#zoom=page-width"
 st.markdown(f'<iframe src="{pdf_viewer_url}" width="100%" height="1000px"></iframe>', unsafe_allow_html=True)
