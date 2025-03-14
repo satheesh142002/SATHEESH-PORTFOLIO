@@ -20,6 +20,11 @@ def download_pdf(url, save_path):
 st.set_page_config(layout="wide")
 st.title("Satheesh Portfolio")
 
+<<<<<<< Updated upstream
+=======
+
+
+>>>>>>> Stashed changes
 # Download the PDF if it doesn’t exist
 if not os.path.exists(DEFAULT_PDF_PATH):
     st.info("Downloading resume from GitHub...")
