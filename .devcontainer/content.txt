@@ -1,0 +1,44 @@
+SATHEESH KUMAR K
+Chennai, India | # satheesh142002@gmail.com | H +91-9524753777
+ï satheesh-kumar-k-ab5766255 | § Satheeshkumar3777
+PROFESSIONAL SUMMARY
+Information Technology professional with expertise in Python, SQL, and AI. Experience in developing RAG-based chatbots
+and implementing data analytics solutions. Strong background in prompt engineering and cloud services. Seeking to leverage
+technical skills in a challenging role that drives business value through technology.
+EDUCATION
+Degree Institution Year Score
+B.Tech Hindusthan Institute of Technology, Coimbatore (Information Technology)
+2020 - 2024 90%
+HSC (Class XII) Sri Vijay Vidyalaya, Hosur (Computer Science) 2018 - 2020 69.8%
+SSLC (Class X) Asian Christian High School, Hosur 2016 - 2018 69.8%
+PROFESSIONAL EXPERIENCE
+AI-ML Trainee Engineer November 2024 - February 2025
+Avasoft, Chennai
+• Engineered a RAG-based chatbot utilizing FastAPI (backend) and Streamlit (frontend), enhancing information retrieval
+efficiency
+• Implemented advanced prompt engineering techniques to optimize system and user prompts for superior chatbot responses
+• Integrated AWS S3 for secure data storage and developed comprehensive cloud service implementation strategies
+• Strengthened technical proficiency in Python, SQL, and AI implementations while gaining experience in full project
+lifecycle management
+Analytics & Insights Intern January 2024 - August 2024
+Titan Company Ltd., Bangalore
+• Automated jewelry price estimation by successfully integrating real-time Gold Price APIs, resulting in improved operational efficiency
+• Developed innovative AI-based jewelry design prototypes using MidJourney, contributing to new product development
+• Leveraged SQL expertise to extract valuable business insights from large datasets in the eyewear domain
+• Utilized AWS SageMaker for large-scale data processing, implementing feature extraction methodologies for AI applications
+KEY PROJECTS
+Portfolio-Based Chatbot January 2025
+• Developed an advanced chatbot utilizing Retrieval-Augmented Generation (RAG) to provide contextually relevant responses based on portfolio data
+• Implemented Google Gemini API for sophisticated natural language processing and ChromaDB for efficient vector storage
+• Created a responsive user interface with Streamlit and robust backend architecture using FastAPI
+TECHNICAL PROFICIENCY
+Programming Python
+AI Retrieval-Augmented Generation (RAG), Prompt Engineering
+Data Analytics Data Visualization, Feature Engineering, Power BI
+Cloud & Development AWS (S3, SageMaker), FastAPI, Streamlit, OpenAI API, Git, Jupyter Notebook, VS Code
+Databases PostgreSQL, ChromaDB
+CERTIFICATIONS
+• IBM Data Analyst Professional Certification — IBM January 2024
+• Business Analytics Certification — Wharton School, University of Pennsylvania February 2024
+• SQL Basics — HackerRank August 2024
+• Machine Learning Specialization — DeepLearning.AI In Progress
